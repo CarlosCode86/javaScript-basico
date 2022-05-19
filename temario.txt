@@ -1,0 +1,12 @@
+Tipo de variables
+Tipado sencible a las mayusculas y minusculas (case-sensitive)
+
+Operaciones aritmeticas
+    suma (var suma = 7 + 12) y se muestra con console
+    resta (var resta = 5 - 15) y se muestra console
+    multiplicación (var producto = 5 * 25) se muestra con console
+    division (var divisor = 5 / 25) se muestra con console
+
+Numeros decimales
+    
+    
